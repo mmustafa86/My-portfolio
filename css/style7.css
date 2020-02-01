@@ -924,7 +924,7 @@ body.extra .arlo_tm_rightpart.opened{padding-left: 400px;}
 /*---------------------------------------------------*/
 /*	07) ARLO SERVICES
 /*---------------------------------------------------*/
-.inner-image{
+#inner-image{
 	width: 20%;
 	height: 20%;
 	margin-top: 15px;
