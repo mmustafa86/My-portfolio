@@ -924,7 +924,11 @@ body.extra .arlo_tm_rightpart.opened{padding-left: 400px;}
 /*---------------------------------------------------*/
 /*	07) ARLO SERVICES
 /*---------------------------------------------------*/
-
+.inner-image{
+	width: 20%;
+	height: 20%;
+	margin-top: 15px;
+}
 .arlo_title_holder{
 	width: 100%;
 	height: auto;
@@ -1889,11 +1893,7 @@ body.extra .arlo_tm_rightpart.opened{padding-left: 400px;}
 	margin: 0px;
 	list-style-type: none;
 }
-.inner-image{
-	width: 20%;
-	height: 20%;
-	margin-top: 15px;
-}
+
 
 .arlo_tm_contact .contact_inner .right .input_wrap ul li{
 	margin: 0px 0px 25px 0px;
